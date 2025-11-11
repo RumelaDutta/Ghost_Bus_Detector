@@ -17,25 +17,6 @@ This is my *first project*, built to learn how backend, frontend, and live data 
 
 ---
 
-## 🛠 Tech Stack
-
-*Frontend:*
-
-* React.js
-* Leaflet (Map visualization)
-* WebSockets (real-time updates)
-
-*Backend:*
-
-* FastAPI (Python)
-* Redis (Data caching)
-* GTFS-Realtime (Bus feed integration)
-
-*Other Tools:*
-
-* NPM / Node.js
-* Git & GitHub
-
 ---
 
 ## 📂 Project Structure
@@ -91,9 +72,6 @@ https://github.com/RumelaDutta/Ghost_Bus_Detector
    uvicorn main:app --reload
    
 
-The backend will now run on:
-👉 http://127.0.0.1:8000
-
 ### ⿣ Frontend Setup (React)
 
 1. Open a new terminal and go to the frontend folder:
@@ -114,9 +92,6 @@ The backend will now run on:
    npm start
    
 
-The frontend will now run on:
-👉 http://localhost:3000
-
 ---
 
 ## 🚀 How It Works
@@ -128,9 +103,4 @@ The frontend will now run on:
 
 ---
 
-## 📜 License
-
-This project is licensed under the *MIT License*.
-
----
 
